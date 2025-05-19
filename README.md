@@ -21,7 +21,8 @@ Aplicações do sensoriamento remoto:
 1. Desmatamento;
 2. Focos de incêndio e queimadas;
 3. Crescimento urbano;
-4. Mudanças climáticas.
+4. Mudanças climáticas;
+5. Análises de áreas de risco e desabamento.
 
 Referências
 
