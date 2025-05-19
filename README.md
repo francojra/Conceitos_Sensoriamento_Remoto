@@ -16,6 +16,8 @@ As imagens captadas pelos sensores são armazenadas em bancos de informações d
 
 Enquanto nossos olhos apenas captam a luz visível (cores em vermelho, amarelo, verde, azul, etc.), os sensores remotos captam ondas de infravermelho ou micro-ondas revelando informações ocultas como a umidade do solo ou estado de uma vegetação.
 
+O sensoriamento remoto permite o monitoramento no Brasil em áreas remotas, o que tornaria difícil a detecção sem ele. ALém disso, os dados de focos de incêndio podem ser rapidamente detectados podendo ser atualizados a cada 10 minutos. Além da análise de focos de queimadas, os dados coletados por satélites ajudam a entender os mecanismos que ocorrem durante as queimadas, isso ajuda a prever novos focos e traçar planos de prevenção. No site do Terra Brasilis são informados os dados de coordenadas geográficas onde ocorrem os incêndios, os riscos meteorológicos e o mapeamento de áreas queimadas com dados históricos. 
+
 Aplicações do sensoriamento remoto:
 
 1. Desmatamento;
