@@ -11,3 +11,17 @@ O sensoriamento remoto é todo processo de aquisição da informação que envol
 Em drones são instaladas câmeras que adquirem imagens as quais depois são processadas e extraídas informações de características específicas. Os drones permitem fotografias aéreas em escalas maiores, então tem-se um detalhamento da informação não apenas espacial, mas também um detalhamento minucioso da superfície terrestre devido à obtenção de imagens em vários comprimentos de ondas, permitindo informações sobre diferentes tipos de vegetação em diferentes estratos. É possível ainda identificar, pragas, contaminações e fitossanidade. Com drones também é possível avaliar a biodiversidade de uma floresta e o estágio sucessional dela. Diferentes tipos de vegetação respondem de maneiras diferentes nas faixas do espectro eletromagnético, então é possível, por exemplo, detectar anomalias e doenças em uma vegetação agrícola. O comprimento de onda infravermelho pode fazer essa detecção por ser um comprimento de onda mais curto. Infravermelho (IR) é um tipo de radiação eletromagnética invisível ao olho humano, situada no espectro eletromagnético entre a luz visível e as micro-ondas. É uma radiação não ionizante, o que significa que não é perigosa para a saúde humana. O IR é frequentemente associado ao calor, pois é um tipo de radiação emitida por objetos quentes. 
 
 Em ambientes aquáticos, são extraídas informações sobre a qualidade da água. De acordo com os elementes encontrados na água, é definido se ela é adequada para consumo, se está contaminada, se serve para abastecimento público. Alguns tipos de algas presentes na água desenvolvem toxinas, então, o monitoramento é importante para avaliar a qualidade da água. O sensoriamento da água também permite uma análise espacial avaliando todos os pontos do corpo aquático com propensão à contaminações, incluindo a análise em diferentes profundidades e análise da altura e densidade da vegetação. Nos ambientes aquáticos é possível avaliar com sensoriamento remoto o processo de eutrofização (enriquecimento de nutrientes nos corpos d'água causando a proliferação de fitoplânctons e algas.
+
+As imagens captadas pelos sensores são armazenadas em bancos de informações digitais, os SIGs (Sistemas de Informações Geográficas). Os satélites trabalham além do campo do espectro visível (ou comprimento de onda do espectro visível), como as imagens ultravioleta e de infravermelho. Essas frequências de ondas que estão fora do campo do espectro visível podem ser convertidas em uma faixa de espectro visível como em cores RGB (Red, Green, Blue).
+
+Aplicações do sensoriamento remoto:
+
+1. Desmatamento;
+2. Focos de incêndio e queimadas;
+3. Crescimento urbano;
+4. Mudanças climáticas.
+
+Referências
+
+- https://www.youtube.com/watch?v=80vkvtxVvXg
+- https://www.youtube.com/watch?v=c0j-7I_OlzQ&t=508s
