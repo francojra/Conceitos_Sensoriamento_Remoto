@@ -31,3 +31,6 @@ Referências
 - https://www.youtube.com/watch?v=80vkvtxVvXg
 - https://www.youtube.com/watch?v=c0j-7I_OlzQ&t=508s
 - https://www.youtube.com/shorts/gtWk1ohA2QU
+- https://www.youtube.com/shorts/gBTll4NywJU
+- https://www.youtube.com/shorts/uXMT_LqDPP8
+- https://www.youtube.com/shorts/sfjLbIE1M5M
