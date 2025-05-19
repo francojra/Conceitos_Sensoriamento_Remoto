@@ -14,6 +14,8 @@ Em ambientes aquáticos, são extraídas informações sobre a qualidade da águ
 
 As imagens captadas pelos sensores são armazenadas em bancos de informações digitais, os SIGs (Sistemas de Informações Geográficas). Os satélites trabalham além do campo do espectro visível (ou comprimento de onda do espectro visível), como as imagens ultravioleta e de infravermelho. Essas frequências de ondas que estão fora do campo do espectro visível podem ser convertidas em uma faixa de espectro visível como em cores RGB (Red, Green, Blue).
 
+Enquanto nossos olhos apenas captam a luz visível (cores em vermelho, amarelo, verde, azul, etc.), os sensores remotos captam ondas de infravermelho ou micro-ondas revelando informações ocultas como a umidade do solo ou estado de uma vegetação.
+
 Aplicações do sensoriamento remoto:
 
 1. Desmatamento;
@@ -25,3 +27,4 @@ Referências
 
 - https://www.youtube.com/watch?v=80vkvtxVvXg
 - https://www.youtube.com/watch?v=c0j-7I_OlzQ&t=508s
+- https://www.youtube.com/shorts/gtWk1ohA2QU
