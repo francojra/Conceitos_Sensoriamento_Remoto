@@ -50,3 +50,4 @@ Referências
 - https://www.youtube.com/shorts/uXMT_LqDPP8
 - https://www.youtube.com/shorts/sfjLbIE1M5M
 - https://www.youtube.com/watch?v=RKXaHIqDyrA
+- https://www.youtube.com/watch?v=p8vE-hZmX00
