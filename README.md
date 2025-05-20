@@ -2,6 +2,8 @@
 
 O sensoriamento remoto é o conjunto de técnicas de captação de dados a distância. O sensoriamento precisa da radiação eletromagnética que atinge os corpos (objetos da superfície terrestre) reflete até nossos olhos e o nosso cérebro (como um computador) tranforma esses dados em imagens.
 
+Na 2ª Guerra Mundial os navios eram equipados com sensores, os sonares, que emitiam sinais, e ao eles serem refletidos, poderia indicar a presença de submarinos de guerra. A corrida espacial durante a guerra fria aconteceu após os soviéticos colocarem o primeiro satélite em órbita da Terra, o Sputnik, para obtenção de dados levando ao aprimoramento do sensoriamento remoto.
+
 Os dados do monitoramento ambiental são coletados atraves de sensores instalados em ambientes aquaticos, terrestres, aereos e orbitais. Os sensores sao usados para identificar, mapear e monitorar condições ambientais. Os estudos de monitoramento servem para avaliar a mudança histórica de uma vegetação, o controle de pragas na agricultura, doenças nas culturas de plantações, a população da vegetação aquática, entre outros.
 
 Os estudos de sensoriamento remoto é interdisciplinar e apresenta diferentes vertentes. Os sensotes captam a radiação eletromagnética do solo, da água, da vegetação, etc. Os sensores podem adquirir sistematicamente imagens da superfície da Terra e extrair informações sobre essas imagens. Com o porgrama americano Landsat podemos obter uma série histórica das imagens desde a década de 70. 
