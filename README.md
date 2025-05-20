@@ -37,7 +37,9 @@ Aplicações do sensoriamento remoto:
 7. Assoreamento de rios;
 8. Engenharia civil;
 9. Arquitetura;
-10. Agronomia.
+10. Agronomia;
+11. Meteorologia;
+12. Localização (GPS).
 
 Referências
 
