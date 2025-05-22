@@ -43,6 +43,8 @@ Aplicações do sensoriamento remoto:
 
 O PRODES (Projeto de Monitoramento da Floresta Amazônica Brasileira por Satélite) foi o primeiro sistema de monitoramento de florestas tropicais do mundo criado em 1989 pelo INPE. O PRODES utiliza imagens de diversos satélites em uma combinação que busca acabar com qualquer ponto cego evitando possíveis problemas como cobertura de nuvens ou falhas nos aparelhos. Após isso, as imagens são comparadas entre anos anteriores e atuais para compor um retrato fiel do desmatamento em um ano. O período é sempre de agosto de um ano a julho do ano seguinte. Um índice é calculado e definido como a taxa oficial do desmatamento. O DETER é outro sistema de detecção de desmatamento criado pelo INPE, nesse caso, o acompanhamento do desmatamento é em tempo real. O DETER além de indicar o desmatamento de corte raso com solo exposto, ele também analisa o desmatamento com vegetação parcial e degradação, como fogo e extração de madeira, além da classe de mineração e garimpos ilegais em terras indígenas e unidades de conservação. O PRODES é um sistema muito confiável, pois mantem a mesma metodologia de décadas anteriores, as quais permitem a comparação.
 
+O sistema PRODES monitora o desmatamento da Amazônia através de imagens de satélites de observação da Terra, principalmente o norte-americano Landsat.
+
 O monitoramento do desmatamento da Amazônia feito por satélites do Brasil é um dos mais avançados e precisos do mundo, fornecendo informações importantes que devem ser lavadas a sério por governo e sociedade para evitar mais desmatamentos.
 
 Referências
