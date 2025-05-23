@@ -56,7 +56,9 @@ PRODES:
 DETER:
 
 1. Sistema de detecção de alertas de desmatamento em tempo real;
-2. 
+2. Monitoramento diário: desde 2004 para a Amazônia Legal e 2018 para o Cerrado;
+3. Alertas de desmatamento e degradação florestal;
+4. Dados para suporte aos órgãos de fiscalização (IBAMA, Secretaria de Meio Ambiente, etc.).
 
 O monitoramento do desmatamento da Amazônia feito por satélites do Brasil é um dos mais avançados e precisos do mundo, fornecendo informações importantes que devem ser lavadas a sério por governo e sociedade para evitar mais desmatamentos.
 
