@@ -50,7 +50,13 @@ PRODES:
 1. Sistema de monitoramento do desmatamento;
 2. Levantamento anual: desde 1988 para a Amazônia Legal e 2000 para o cerrado;
 3. Analisa a taxa de desmatamento;
-4. 
+4. Desmatamento por corte raso (supressão quase que completa da cobertura vegetal primária);
+5. Registra o número oficial de desmatamento para o Brasil.
+
+DETER:
+
+1. Sistema de detecção de alertas de desmatamento em tempo real;
+2. 
 
 O monitoramento do desmatamento da Amazônia feito por satélites do Brasil é um dos mais avançados e precisos do mundo, fornecendo informações importantes que devem ser lavadas a sério por governo e sociedade para evitar mais desmatamentos.
 
