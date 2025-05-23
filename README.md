@@ -65,7 +65,8 @@ Terra Brasilis
 1. Portal web gis para organização, acesso e disseminação de dados geográficos;
 2. Construído para atender necessidades de disseminação dos dados PRODES e DETER;
 3. Baseado nas tecnologias *freeware* para desenvolvimento de aplicações web gis;
-4. O portal apresenta mapas, gráficos e tabelas que podem ser baixadas com as informações de desmatamento e degradação por biomas, estados e municípios e uma série temporal dos incrementos de desmatamento.
+4. O portal apresenta mapas, gráficos e tabelas que podem ser baixadas com as informações de desmatamento e degradação por biomas, estados e municípios e uma série temporal dos incrementos de desmatamento;
+5. O dados do Terra Brasilis podem ser usados diretamente no software QGIS.
 
 O monitoramento do desmatamento da Amazônia feito por satélites do Brasil é um dos mais avançados e precisos do mundo, fornecendo informações importantes que devem ser lavadas a sério por governo e sociedade para evitar mais desmatamentos.
 
