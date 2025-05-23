@@ -45,6 +45,13 @@ O PRODES (Projeto de Monitoramento da Floresta Amazônica Brasileira por Satéli
 
 O sistema PRODES monitora o desmatamento da Amazônia através de imagens de satélites de observação da Terra, principalmente o norte-americano Landsat. O Landsat divide a superfície do planeta em quadrados de 185 km², que são chamados de cenas compostas por tiles ou células. Cerca de 220 das cenas cobrem a Amazônia. As cenas são minuciosamente analisadas pelo PRODES. As imagens brutas das cenas são baixadas diretamente da base de dados da NASA e procesadas para compor as imagens de trabalho. Depois, as imagens são analisadas no sistema de informações geográficas TerraAmazon, desenvolvido pelo INPE. As imagens recebem ajustes de contrastes, evidenciando as áreas de corte raso. Uma equipe multidisciplinar de 20 especialistas identifica as áreas desmatadas. Os técnicos identificam as perdas florestais comparando a situação das áreas com a dos anos anteriores. Os técnicos marcam as áreas desmatadas por corte raso desenhando um polígono de determinada cor. Áreas em cinza podem indicar desmatamento por corte raso (perda total da vegetação), áreas em verde claro podem indicar vegetação rasteira ou agricultura, áreas em verde escuro representa vegetação de floresta preservada. Os interpretes fazem isso exaustivamente até completar toda a cena. O resultado é validado por auditores. O processo todo leva em torno de 8 meses. Imagens validadas do PRODES seguem para um banco de dados, são agregadas para compor as taxas de desmatamento e, depois, publicadas na plataforma online Terra Brasilis. Essa plataforma traz mapas e taxas de desmatamento na Amazônia e outros biomas. Os dados podem ser baixados e usados livremente.
 
+PRODES:
+
+1. Sistema de monitoramento do desmatamento;
+2. Levantamento anual: desde 1988 para a Amazônia Legal e 2000 para o cerrado;
+3. Analisa a taxa de desmatamento;
+4. 
+
 O monitoramento do desmatamento da Amazônia feito por satélites do Brasil é um dos mais avançados e precisos do mundo, fornecendo informações importantes que devem ser lavadas a sério por governo e sociedade para evitar mais desmatamentos.
 
 Referências
