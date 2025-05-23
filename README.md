@@ -60,6 +60,12 @@ DETER:
 3. Alertas de desmatamento e degradação florestal;
 4. Dados para suporte aos órgãos de fiscalização (IBAMA, Secretaria de Meio Ambiente, etc.).
 
+Terra Brasilis
+
+1. Portal web gis para organização, acesso e disseminação de dados geográficos;
+2. Construído para atender necessidades de disseminação dos dados PRODES e DETER;
+3. Baseado nas tecnologias *freeware* para desenvolvimento de aplicações web gis.
+
 O monitoramento do desmatamento da Amazônia feito por satélites do Brasil é um dos mais avançados e precisos do mundo, fornecendo informações importantes que devem ser lavadas a sério por governo e sociedade para evitar mais desmatamentos.
 
 Referências
